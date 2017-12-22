@@ -12,8 +12,8 @@ Python, RabbitMQ due to supports MQTT Protocol and have its own best queue manag
 OS platform:
 Windows 7 or 10
  
-Installation & Dependencies:
-Python:
+# Installation & Dependencies:
+* Python:
 - Download Links: https://www.python.org/downloads/
 Download Latest Python from above links and follow the easy steps with run exe files on windows machine.
  
@@ -44,7 +44,7 @@ From Python Script folder run the below command
 pip install paho-mqtt
 With above Command now we can import paho-mqtt libraries in our python program.
  
-RabbitMQ
+* RabbitMQ
 - Download & Install ERlang first (https://www.erlang.org/)
 - Download & Install RabitMQ (http://www.rabbitmq.com/download.html)
 - Find Commands Easily
@@ -68,5 +68,5 @@ Now we can user http://localhost:15672 url to run web interface in browser, use 
 In this web interface you can see the MQTT Client Connections and Subscribed users list.
 Also can see the published  message over the topic.
  
-Python Programming
-mqttClint.py is the python program, open the file in python and run, will subscribe to MQTT and publish a message on topic- test, we can see the output on python prompt with subscribe and publish message details.
+* Python Programming
+MqttClint.py is the python program, open the file in python and run, will subscribe to MQTT and publish a message on topic- test, we can see the output on python prompt with subscribe and publish message details.
