@@ -1,5 +1,4 @@
-# MQTT-Client-Python-RabbitMQ-Pub/Sub-solution
-MQTT Client PUB/SUB using Python and RabbitMQ
+##                                  MQTT Client PUB/SUB using Python and RabbitMQ
  
  
 MQTT (formerly the MQ Telemetry Transport) is a lightweight protocol that’s primarily designed for connecting power-constrained devices over low-bandwidth networks. Though it existed for over a decade, the advent of M2M (machine to machine communications) and Internet of Things (IoT) made it a popular protocol.
